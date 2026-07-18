@@ -1,17 +1,17 @@
 # PROJETONEDAY
 STRUCTURE DU PROJET
 boutique-electronique/
-├── index.html                 # Page d'accueil
-├── produits.html              # Page "Nos produits"
-├── a-propos.html              # Page "À propos"
-├── contact.html               # Page "Contact"
+├── index.html                 
+├── produits.html              
+├── a-propos.html              
+├── contact.html               
 ├── css/
-│   └── style.css              # Feuille de styles principale
+│   └── style.css              
 ├── js/
-│   └── main.js                # Scripts JavaScript (interactions, menu, etc.)
-├── images/                    # Dossier pour les images (logos, produits, etc.)
+│   └── main.js                
+├── images/                  
 │   ├── logo.svg
 │   ├── produit1.jpg
 │   ├── produit2.jpg
 │   └── ...
-└── README.md                  # (optionnel) Documentation du projet
+└── README.md                  
